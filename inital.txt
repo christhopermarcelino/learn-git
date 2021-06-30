@@ -1,3 +1,5 @@
 Inital commit
 
-Changed in feature branch
+Modified in remote
+
+Inital edited in remote
