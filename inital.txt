@@ -15,3 +15,4 @@ add __ from remote, modified
 addition from local branch
 
 testing addition from local
+testing addition from remote
