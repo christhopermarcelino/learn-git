@@ -25,3 +25,7 @@ add test from remote
 rebase test from remote
 rebase test from remote 2
 rebase test from remote 3
+
+edit 1
+edit 2
+edit 3
