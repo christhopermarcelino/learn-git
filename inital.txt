@@ -20,6 +20,8 @@ testing addition from remote
 
 add merge conflict from local main
 
+add merge conflict testing from local branch edit
+additional content from local branch edit
 
 add test from remote
 rebase test from remote
