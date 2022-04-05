@@ -5,7 +5,7 @@ on:
     types: [opened]
 
 jobs:
-  build:
+  issue-links:
     runs-on: ubuntu-latest
 
     steps:
