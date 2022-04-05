@@ -1,0 +1,6 @@
+branchName: '${issue.number}-${issue.title}'
+autoCloseIssue: true
+openDraftPR: true
+branches:
+  - label: '*'
+    name: dev
